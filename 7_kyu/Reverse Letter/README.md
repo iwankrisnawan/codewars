@@ -1,0 +1,1 @@
+Given a string str, reverse it omitting all non-alphabetic characters
